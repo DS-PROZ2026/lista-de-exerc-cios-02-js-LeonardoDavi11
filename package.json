@@ -1,8 +1,8 @@
 {
-  "name": "lista_de_atividades02_js",
+  "name": "leo",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "atividade03.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,6 +11,7 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
-    "prompt-sync": "^4.2.0"
+    "prompt-sync": "^4.2.0",
+    "readline-sync": "^1.4.10"
   }
 }
